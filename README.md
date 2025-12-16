@@ -114,9 +114,9 @@ especially in identifying churned customers.
 ---
 
 ## 📁 Repository Structure
-├── Customer Churn Analysis.ipynb
-├── Customer Churn.csv
-└── README.md
+- ├── Customer Churn Analysis.ipynb
+- ├── Customer Churn.csv
+- └── README.md
 
 ---
 
